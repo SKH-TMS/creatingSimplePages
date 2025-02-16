@@ -10,8 +10,7 @@ https://available-soon
 
 ### Version 0 (v0)
 
-- Only frontend of the registration form
-- Not glabal styling(css). Instead, style is directly applied to the registration form.
+- Creating simple page that will navigate using NavBar.
 
 ## How to Run:
 
