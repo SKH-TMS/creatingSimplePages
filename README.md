@@ -11,6 +11,7 @@ https://available-soon
 ### Version 0 (v0)
 
 - Creating simple page that will navigate using NavBar.
+- Not glabal styling(css). Instead, style is directly applied to the pages
 
 ## How to Run:
 
