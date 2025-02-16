@@ -1,4 +1,4 @@
-# Run some basic codes in first NestJS Application
+# Creating Simple Pages
 
 You can use below link to know how to create this app
 
